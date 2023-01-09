@@ -1,2 +1,2 @@
 # ProjetosJS-slideshow
-deploy: lobernardo-slideshowjs.netlify.app
+deploy: https://lobernardo-slideshowjs.netlify.app/
